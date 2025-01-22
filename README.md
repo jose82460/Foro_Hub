@@ -3,7 +3,7 @@
 <h2>Sobre la Aplicacion</h2>
 <ul>
 <li>API que nos permite hacer un CRUD sobre un foro</li>
-<li>Opcionalmente puedes ingresar el simbolo del par de monedas que quieras intercambiar</li>
+
 </ul>
 V.1.0
 <p>Version inicial</p>
